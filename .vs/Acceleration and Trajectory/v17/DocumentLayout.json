@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CIIT\\Acceleration and Trajectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{313A3607-000A-DC15-8866-E1171ECC0303}|Assembly-CSharp.csproj|C:\\Users\\CIIT\\Acceleration and Trajectory\\assets\\acceleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313A3607-000A-DC15-8866-E1171ECC0303}|Assembly-CSharp.csproj|solutionrelative:assets\\acceleration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313A3607-000A-DC15-8866-E1171ECC0303}|Assembly-CSharp.csproj|c:\\users\\ciit\\acceleration and trajectory\\assets\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313A3607-000A-DC15-8866-E1171ECC0303}|Assembly-CSharp.csproj|solutionrelative:assets\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313A3607-000A-DC15-8866-E1171ECC0303}|Assembly-CSharp.csproj|c:\\users\\ciit\\acceleration and trajectory\\assets\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313A3607-000A-DC15-8866-E1171ECC0303}|Assembly-CSharp.csproj|solutionrelative:assets\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "point.cs",
+              "DocumentMoniker": "C:\\Users\\CIIT\\Acceleration and Trajectory\\Assets\\point.cs",
+              "RelativeDocumentMoniker": "Assets\\point.cs",
+              "ToolTip": "C:\\Users\\CIIT\\Acceleration and Trajectory\\Assets\\point.cs",
+              "RelativeToolTip": "Assets\\point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:30:57.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shoot.cs",
+              "DocumentMoniker": "C:\\Users\\CIIT\\Acceleration and Trajectory\\Assets\\shoot.cs",
+              "RelativeDocumentMoniker": "Assets\\shoot.cs",
+              "ToolTip": "C:\\Users\\CIIT\\Acceleration and Trajectory\\Assets\\shoot.cs",
+              "RelativeToolTip": "Assets\\shoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:16:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "acceleration.cs",
+              "DocumentMoniker": "C:\\Users\\CIIT\\Acceleration and Trajectory\\Assets\\acceleration.cs",
+              "RelativeDocumentMoniker": "Assets\\acceleration.cs",
+              "ToolTip": "C:\\Users\\CIIT\\Acceleration and Trajectory\\Assets\\acceleration.cs",
+              "RelativeToolTip": "Assets\\acceleration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:48:57.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
